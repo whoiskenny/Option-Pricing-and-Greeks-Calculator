@@ -46,7 +46,7 @@ This project implements a comprehensive set of tools for pricing financial optio
    ```
 2. Compile the program:
    ```
-   g++ -o option_pricing main.cpp -std=c++11
+   g++ -o option_pricing mnto_carlo.cpp -std=c++11
    ```
 3. Execute the compiled binary:
    ```
